@@ -1,2 +1,2 @@
 # SignalR_MVC_ASPNET_Core
-.NET MVC SignalR ASP.NET Core demo
+This is a demo of MVC ASP.NET Core with SignalR that can be used in Linux
